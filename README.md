@@ -2,6 +2,7 @@
 # Initially wanted to build an app that plays Azan. Thats why a lot of functions are named with Azan.
 # Then had an idea of making it into a Sura Player that plays surah.
 # Basic flutter stateless widget with functions.
+It doesn't use Stateful widget. 
 
 A new Flutter project.
 
